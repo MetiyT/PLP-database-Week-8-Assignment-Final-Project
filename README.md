@@ -2,7 +2,7 @@
 # E-Commerce Store Database
 
 ## Project Overview
-This project is a simple relational database designed for an online store. It manages **customers, products, orders, and order details**. The database allows storing customer information, tracking orders, and handling product inventory.
+This project is a relational database designed for an online store. It manages **customers, products, orders, and order details**. The database allows storing customer information, tracking orders, and handling product inventory.
 
 ## Database Name
 `ECommerceDB`
